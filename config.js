@@ -197,7 +197,7 @@ window.CONFIG = {
       url: 'https://translate.google.com',
       normalisedURL: 'translate.google.com',
       triggers: [
-        't',
+        'tr',
         'translate'
       ],
       key: 'KeyT',
@@ -227,7 +227,7 @@ window.CONFIG = {
       ],
       key: 'KeyI',
       icon: 'instagram',
-      url: 'https://sites.google.com/d/1Rr9TXniTsR6_mAAo2qFM_8vCWHaR2QJu/p/1YcBBIruE94157xGq6mCQ__Ucv7Pb7QYR/edit',
+      url: 'https://english-portfolio-akshay-shenoy-myp-3-a.vercel.app/',
       normalisedURL: 'instagram.com',
       commands: {
         go: {
@@ -247,16 +247,16 @@ window.CONFIG = {
     },
     {
       category: 'Work',
-      name: 'Blooket',
+      name: 'Sathee',
       icon: 'spotify',
-      url: 'https://play.blooket.com/play',
+      url: 'https://jeetest.prutor.ai/student-home',
       normalisedURL: 'spotify.com',
       triggers: [
-        'b',
-        'blook',
-        'ket',
-        'blooke',
-        'blooket'
+        's',
+        'sa',
+        'sath',
+        'sat',
+        'sathee'
       ],
       commands: {
         search: {
@@ -271,7 +271,7 @@ window.CONFIG = {
         type: 'gradient',
         gradientType: 'linear',
         angle: 45,
-        colors: ['#0bc2cf', '#08929c']
+        colors: [' #0057B7', '#FFD700']
       },
       textColor: '#fff',
       pinned: true
